@@ -16,13 +16,13 @@
 
 ## 📂 Project Structure
 
-SQL-Health-Dashboard-Pro/
-│
-├── health_dashboard.sql           # Main SQL script with health check queries
-├── PowerShell-Exporter.ps1        # PowerShell script to export query results to CSV
-├── /report-output/                # Folder where exported CSV reports are saved
-├── /docs/                        # Documentation files, screenshots, and images
-├── /tests/                       # Optional test scripts or sample databases
-├── README.md                     # Project overview, instructions, and details
-├── LICENSE                      # License file (e.g., MIT License)
-└── .gitignore                   # Specifies files/folders to ignore in Git
+SQL-Health-Dashboard-Pro/  
+│  
+├── health_dashboard.sql&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Main SQL script with health check queries  
+├── PowerShell-Exporter.ps1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# PowerShell script to export query results to CSV  
+├── /report-output/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Folder where exported CSV reports are saved  
+├── /docs/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Documentation files, screenshots, and images  
+├── /tests/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Optional test scripts or sample databases  
+├── README.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Project overview, instructions, and details  
+├── LICENSE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# License file (e.g., MIT License)  
+└── .gitignore&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Specifies files/folders to ignore in Git  
