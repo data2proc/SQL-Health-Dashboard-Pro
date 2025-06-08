@@ -24,19 +24,22 @@ SQL-Health-Dashboard-Pro/
 │   ├── 03_performance_metrics.sql  
 │   ├── 04_backups.sql  
 │   ├── 05_security.sql  
-│   ├── 06_agent_jobs.sql  
-│   ├── 07_disk_monitoring.sql  
-│   └── 08_alerts_mail.sql  
+│   ├── 06_agent_jobs.sql    
+│   ├── 07_index_stats_health.sql   
+│   ├── 08_disk_monitoring.sql    
+│   └── 09_alerts_mail.sql    
 │  
 └── docs/  
-    ├── 01_instance_info.md  
-    ├── 02_database_summary.md  
-    ├── 03_performance_metrics.md  
-    ├── 04_backups.md  
-    ├── 05_security.md  
-    ├── 06_agent_jobs.md  
-    ├── 07_disk_monitoring.md  
-    └── 08_alerts_mail.md    
+│   ├── 01_instance_info.md  
+│   ├── 02_database_summary.md  
+│   ├── 03_performance_metrics.md  
+│   ├── 04_backups.md  
+│   ├── 05_security.md  
+│   ├── 06_agent_jobs.md    
+│   ├── 07_index_stats_health.md   
+│   ├── 08_disk_monitoring.md    
+│   └── 09_alerts_mail.md    
+    
   
   
 ---
